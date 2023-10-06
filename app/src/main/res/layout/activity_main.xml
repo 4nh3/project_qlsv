@@ -22,7 +22,7 @@
 
             <ImageButton
                 android:id="@+id/imageButton2"
-                android:layout_width="72dp"
+                android:layout_width="75dp"
                 android:layout_height="match_parent"
                 android:backgroundTint="#F8EDCA"
                 app:srcCompat="@drawable/trove" />
